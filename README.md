@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Projeto desenvolvido para a disciplina de **Introdução à Computação e às Tecnologias** da UCS.
+Projeto desenvolvido para a disciplina de **Introdução à Computação e às Tecnologias**, no primeiro semestre de 2025 da UCS.
 
 O objetivo do projeto foi desenvolver um sistema de gerenciamento de oficina utilizando Python, aplicando conceitos de programação, organização de dados e integração com banco de dados.
 
